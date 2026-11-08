@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML_FLOW_DEMO/mlruns/915755696390997096/756646590077432b90582babe9325c33/artifacts
+end_time: 1794132455274
+entry_point_name: ''
+experiment_id: '915755696390997096'
+lifecycle_stage: active
+run_id: 756646590077432b90582babe9325c33
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794132448376
+status: 3
+tags: []
+user_id: Shreejaa

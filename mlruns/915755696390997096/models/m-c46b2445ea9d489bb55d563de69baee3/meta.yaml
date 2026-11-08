@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ML_FLOW_DEMO/mlruns/915755696390997096/models/m-c46b2445ea9d489bb55d563de69baee3/artifacts
+creation_timestamp: 1794132440545
+experiment_id: '915755696390997096'
+last_updated_timestamp: 1794132448343
+model_id: m-c46b2445ea9d489bb55d563de69baee3
+model_type: null
+name: model
+source_run_id: 555fb5564e6e4f8dbabe2bff23f74a88
+status: 2
+status_message: null

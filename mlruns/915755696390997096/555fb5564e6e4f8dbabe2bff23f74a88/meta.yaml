@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML_FLOW_DEMO/mlruns/915755696390997096/555fb5564e6e4f8dbabe2bff23f74a88/artifacts
+end_time: 1794132448357
+entry_point_name: ''
+experiment_id: '915755696390997096'
+lifecycle_stage: active
+run_id: 555fb5564e6e4f8dbabe2bff23f74a88
+run_name: Dummy Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794132440361
+status: 3
+tags: []
+user_id: Shreejaa

@@ -1,0 +1,9 @@
+artifact_location: file:///D:/ML_FLOW_DEMO/mlruns/915755696390997096
+creation_time: 1794132440011
+effective_trace_archival_retention: null
+experiment_id: '915755696390997096'
+last_update_time: 1794132440011
+lifecycle_stage: active
+name: Credit Card Fraud Detection - Model Comparison
+trace_location: null
+workspace: default

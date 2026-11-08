@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML_FLOW_DEMO/mlruns/915755696390997096/00d92528c696477abae0967abd022aa7/artifacts
+end_time: 1794132462393
+entry_point_name: ''
+experiment_id: '915755696390997096'
+lifecycle_stage: active
+run_id: 00d92528c696477abae0967abd022aa7
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794132455308
+status: 3
+tags: []
+user_id: Shreejaa

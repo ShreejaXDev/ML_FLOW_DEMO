@@ -1,0 +1,30 @@
+Classification Report for Dummy Classifier
+============================================================
+
+{
+    "Normal (Class 0)": {
+        "precision": 0.9982795547909132,
+        "recall": 1.0,
+        "f1-score": 0.9991390367754291,
+        "support": 56864.0
+    },
+    "Fraud (Class 1)": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 98.0
+    },
+    "accuracy": 0.9982795547909132,
+    "macro avg": {
+        "precision": 0.4991397773954566,
+        "recall": 0.5,
+        "f1-score": 0.4995695183877146,
+        "support": 56962.0
+    },
+    "weighted avg": {
+        "precision": 0.996562069513544,
+        "recall": 0.9982795547909132,
+        "f1-score": 0.9974200728063972,
+        "support": 56962.0
+    }
+}
